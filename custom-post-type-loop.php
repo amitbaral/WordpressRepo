@@ -8,7 +8,3 @@ In this case my custom post type is slider
     <h1><?php echo the_title(); ?></h1>
 <?php endwhile; wp_reset_query(); ?>
 
-
-<!--- *************************************
- 
-************************************* --->
